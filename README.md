@@ -29,4 +29,8 @@ manifold optimization method.
 We used public YALE face dataset and divided it into a training set and a test set.
 * the manifold optimization method can be used for improving the sparse feature extraction effect of the CTL model
  compared to the proximal gradient descent method
+
+![](photo/MF.jpg)
 * multi-layer CTL-MF-log can extract deeper semantic information compared to the single-layer CTL-MF-log.
+
+![](photo/multi-layer.jpg)
